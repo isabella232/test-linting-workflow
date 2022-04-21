@@ -7,18 +7,18 @@ contributors:
 
           <Hero slots="heading, text"/> 
 
-# Adobe Analytics API
+        # Adobe Analytics API
 
 Adobe Product API offers limitless ways to integrate your most important customer data into key business processes. Adobe Product API offer limitless ways.
 
       <Resources slots="heading, links"/>
   asdfs
-#### Resources
+#   ### Resources
 
 * [Quickstart Guide](https://www.adobe.io/apis/experiencecloud/analytics/docs.html)
 * [Adobe Analytics Github Repo](https://github.com/AdobeDocs/analytics-2.0-apis)
 
-## Overview
+  ## Overview
 
 This documentation provides instructions for Adobe Analytics 2.0 APIs. For working with Analytics 1.4 APIs, see [Analytics 1.4 API Documentation](https://github.com/AdobeDocs/analytics-1.4-apis).
 
